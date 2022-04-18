@@ -1,0 +1,13 @@
+nav {
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  background-color: rgb(73, 177, 64);
+}
+footer {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  background-color: rgb(84, 83, 82);
+}
+.garis-bawah {
+  text-decoration: none;
+}
